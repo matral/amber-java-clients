@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>pl.edu.agh.amber.ninedof</groupId>
+  <artifactId>amber-java-ninedof</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141030191751</lastUpdated>
+  </versioning>
+</metadata>
